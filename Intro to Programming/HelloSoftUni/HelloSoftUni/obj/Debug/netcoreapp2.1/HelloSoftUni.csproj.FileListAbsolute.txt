@@ -1,0 +1,11 @@
+D:\GitHub\2019-Revival\Intro to Programming\HelloSoftUni\HelloSoftUni\bin\Debug\netcoreapp2.1\HelloSoftUni.deps.json
+D:\GitHub\2019-Revival\Intro to Programming\HelloSoftUni\HelloSoftUni\bin\Debug\netcoreapp2.1\HelloSoftUni.runtimeconfig.json
+D:\GitHub\2019-Revival\Intro to Programming\HelloSoftUni\HelloSoftUni\bin\Debug\netcoreapp2.1\HelloSoftUni.runtimeconfig.dev.json
+D:\GitHub\2019-Revival\Intro to Programming\HelloSoftUni\HelloSoftUni\bin\Debug\netcoreapp2.1\HelloSoftUni.dll
+D:\GitHub\2019-Revival\Intro to Programming\HelloSoftUni\HelloSoftUni\bin\Debug\netcoreapp2.1\HelloSoftUni.pdb
+D:\GitHub\2019-Revival\Intro to Programming\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp2.1\HelloSoftUni.csprojAssemblyReference.cache
+D:\GitHub\2019-Revival\Intro to Programming\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp2.1\HelloSoftUni.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Intro to Programming\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp2.1\HelloSoftUni.AssemblyInfoInputs.cache
+D:\GitHub\2019-Revival\Intro to Programming\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp2.1\HelloSoftUni.AssemblyInfo.cs
+D:\GitHub\2019-Revival\Intro to Programming\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp2.1\HelloSoftUni.dll
+D:\GitHub\2019-Revival\Intro to Programming\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp2.1\HelloSoftUni.pdb

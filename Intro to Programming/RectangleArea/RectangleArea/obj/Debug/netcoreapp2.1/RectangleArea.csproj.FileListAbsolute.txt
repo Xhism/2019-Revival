@@ -1,0 +1,10 @@
+D:\GitHub\2019-Revival\Intro to Programming\RectangleArea\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.deps.json
+D:\GitHub\2019-Revival\Intro to Programming\RectangleArea\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.json
+D:\GitHub\2019-Revival\Intro to Programming\RectangleArea\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.dev.json
+D:\GitHub\2019-Revival\Intro to Programming\RectangleArea\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.dll
+D:\GitHub\2019-Revival\Intro to Programming\RectangleArea\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.pdb
+D:\GitHub\2019-Revival\Intro to Programming\RectangleArea\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Intro to Programming\RectangleArea\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfoInputs.cache
+D:\GitHub\2019-Revival\Intro to Programming\RectangleArea\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfo.cs
+D:\GitHub\2019-Revival\Intro to Programming\RectangleArea\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.dll
+D:\GitHub\2019-Revival\Intro to Programming\RectangleArea\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.pdb

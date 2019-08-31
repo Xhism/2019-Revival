@@ -1,0 +1,10 @@
+D:\GitHub\2019-Revival\Intro to Programming\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.deps.json
+D:\GitHub\2019-Revival\Intro to Programming\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.runtimeconfig.json
+D:\GitHub\2019-Revival\Intro to Programming\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.runtimeconfig.dev.json
+D:\GitHub\2019-Revival\Intro to Programming\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.dll
+D:\GitHub\2019-Revival\Intro to Programming\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.pdb
+D:\GitHub\2019-Revival\Intro to Programming\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Intro to Programming\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.AssemblyInfoInputs.cache
+D:\GitHub\2019-Revival\Intro to Programming\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.AssemblyInfo.cs
+D:\GitHub\2019-Revival\Intro to Programming\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.dll
+D:\GitHub\2019-Revival\Intro to Programming\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.pdb

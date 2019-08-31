@@ -1,0 +1,10 @@
+D:\GitHub\2019-Revival\Intro to Programming\Numbers1-10\Numbers1-10\bin\Debug\netcoreapp2.1\Numbers1-10.deps.json
+D:\GitHub\2019-Revival\Intro to Programming\Numbers1-10\Numbers1-10\bin\Debug\netcoreapp2.1\Numbers1-10.runtimeconfig.json
+D:\GitHub\2019-Revival\Intro to Programming\Numbers1-10\Numbers1-10\bin\Debug\netcoreapp2.1\Numbers1-10.runtimeconfig.dev.json
+D:\GitHub\2019-Revival\Intro to Programming\Numbers1-10\Numbers1-10\bin\Debug\netcoreapp2.1\Numbers1-10.dll
+D:\GitHub\2019-Revival\Intro to Programming\Numbers1-10\Numbers1-10\bin\Debug\netcoreapp2.1\Numbers1-10.pdb
+D:\GitHub\2019-Revival\Intro to Programming\Numbers1-10\Numbers1-10\obj\Debug\netcoreapp2.1\Numbers1-10.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Intro to Programming\Numbers1-10\Numbers1-10\obj\Debug\netcoreapp2.1\Numbers1-10.AssemblyInfoInputs.cache
+D:\GitHub\2019-Revival\Intro to Programming\Numbers1-10\Numbers1-10\obj\Debug\netcoreapp2.1\Numbers1-10.AssemblyInfo.cs
+D:\GitHub\2019-Revival\Intro to Programming\Numbers1-10\Numbers1-10\obj\Debug\netcoreapp2.1\Numbers1-10.dll
+D:\GitHub\2019-Revival\Intro to Programming\Numbers1-10\Numbers1-10\obj\Debug\netcoreapp2.1\Numbers1-10.pdb
