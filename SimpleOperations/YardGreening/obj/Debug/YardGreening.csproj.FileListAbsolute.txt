@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\SimpleOperations\YardGreening\bin\Debug\YardGreening.exe.config
+D:\GitHub\2019-Revival\SimpleOperations\YardGreening\bin\Debug\YardGreening.exe
+D:\GitHub\2019-Revival\SimpleOperations\YardGreening\bin\Debug\YardGreening.pdb
+D:\GitHub\2019-Revival\SimpleOperations\YardGreening\obj\Debug\YardGreening.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\SimpleOperations\YardGreening\obj\Debug\YardGreening.exe
+D:\GitHub\2019-Revival\SimpleOperations\YardGreening\obj\Debug\YardGreening.pdb

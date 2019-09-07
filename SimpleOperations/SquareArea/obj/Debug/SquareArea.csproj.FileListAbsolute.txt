@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\SimpleOperations\SquareArea\bin\Debug\SquareArea.exe.config
+D:\GitHub\2019-Revival\SimpleOperations\SquareArea\bin\Debug\SquareArea.exe
+D:\GitHub\2019-Revival\SimpleOperations\SquareArea\bin\Debug\SquareArea.pdb
+D:\GitHub\2019-Revival\SimpleOperations\SquareArea\obj\Debug\SquareArea.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\SimpleOperations\SquareArea\obj\Debug\SquareArea.exe
+D:\GitHub\2019-Revival\SimpleOperations\SquareArea\obj\Debug\SquareArea.pdb

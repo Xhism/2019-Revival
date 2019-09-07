@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\SimpleOperations\FishTank\bin\Debug\FishTank.exe.config
+D:\GitHub\2019-Revival\SimpleOperations\FishTank\bin\Debug\FishTank.exe
+D:\GitHub\2019-Revival\SimpleOperations\FishTank\bin\Debug\FishTank.pdb
+D:\GitHub\2019-Revival\SimpleOperations\FishTank\obj\Debug\FishTank.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\SimpleOperations\FishTank\obj\Debug\FishTank.exe
+D:\GitHub\2019-Revival\SimpleOperations\FishTank\obj\Debug\FishTank.pdb

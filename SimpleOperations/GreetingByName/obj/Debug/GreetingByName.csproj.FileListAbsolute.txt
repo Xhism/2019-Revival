@@ -1,0 +1,7 @@
+D:\GitHub\2019-Revival\SimpleOperations\GreetingByName\bin\Debug\GreetingByName.exe.config
+D:\GitHub\2019-Revival\SimpleOperations\GreetingByName\bin\Debug\GreetingByName.exe
+D:\GitHub\2019-Revival\SimpleOperations\GreetingByName\bin\Debug\GreetingByName.pdb
+D:\GitHub\2019-Revival\SimpleOperations\GreetingByName\obj\Debug\GreetingByName.csprojAssemblyReference.cache
+D:\GitHub\2019-Revival\SimpleOperations\GreetingByName\obj\Debug\GreetingByName.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\SimpleOperations\GreetingByName\obj\Debug\GreetingByName.exe
+D:\GitHub\2019-Revival\SimpleOperations\GreetingByName\obj\Debug\GreetingByName.pdb

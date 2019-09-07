@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\SimpleOperations\PetShop\obj\Debug\PetShop.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\SimpleOperations\PetShop\bin\Debug\PetShop.exe.config
+D:\GitHub\2019-Revival\SimpleOperations\PetShop\bin\Debug\PetShop.exe
+D:\GitHub\2019-Revival\SimpleOperations\PetShop\bin\Debug\PetShop.pdb
+D:\GitHub\2019-Revival\SimpleOperations\PetShop\obj\Debug\PetShop.exe
+D:\GitHub\2019-Revival\SimpleOperations\PetShop\obj\Debug\PetShop.pdb

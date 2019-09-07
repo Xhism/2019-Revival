@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\SimpleOperations\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+D:\GitHub\2019-Revival\SimpleOperations\ConcatenateData\bin\Debug\ConcatenateData.exe
+D:\GitHub\2019-Revival\SimpleOperations\ConcatenateData\bin\Debug\ConcatenateData.pdb
+D:\GitHub\2019-Revival\SimpleOperations\ConcatenateData\obj\Debug\ConcatenateData.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\SimpleOperations\ConcatenateData\obj\Debug\ConcatenateData.exe
+D:\GitHub\2019-Revival\SimpleOperations\ConcatenateData\obj\Debug\ConcatenateData.pdb

@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\SimpleOperations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+D:\GitHub\2019-Revival\SimpleOperations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+D:\GitHub\2019-Revival\SimpleOperations\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+D:\GitHub\2019-Revival\SimpleOperations\InchesToCentimeters\obj\Debug\InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\SimpleOperations\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+D:\GitHub\2019-Revival\SimpleOperations\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

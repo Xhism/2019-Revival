@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\SimpleOperations\ArchitectProjects\bin\Debug\ArchitectProjects.exe.config
+D:\GitHub\2019-Revival\SimpleOperations\ArchitectProjects\bin\Debug\ArchitectProjects.exe
+D:\GitHub\2019-Revival\SimpleOperations\ArchitectProjects\bin\Debug\ArchitectProjects.pdb
+D:\GitHub\2019-Revival\SimpleOperations\ArchitectProjects\obj\Debug\ArchitectProjects.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\SimpleOperations\ArchitectProjects\obj\Debug\ArchitectProjects.exe
+D:\GitHub\2019-Revival\SimpleOperations\ArchitectProjects\obj\Debug\ArchitectProjects.pdb
