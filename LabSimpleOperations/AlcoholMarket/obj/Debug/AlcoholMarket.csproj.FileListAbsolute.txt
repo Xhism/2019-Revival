@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\LabSimpleOperations\AlcoholMarket\bin\Debug\AlcoholMarket.exe.config
+D:\GitHub\2019-Revival\LabSimpleOperations\AlcoholMarket\bin\Debug\AlcoholMarket.exe
+D:\GitHub\2019-Revival\LabSimpleOperations\AlcoholMarket\bin\Debug\AlcoholMarket.pdb
+D:\GitHub\2019-Revival\LabSimpleOperations\AlcoholMarket\obj\Debug\AlcoholMarket.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\LabSimpleOperations\AlcoholMarket\obj\Debug\AlcoholMarket.exe
+D:\GitHub\2019-Revival\LabSimpleOperations\AlcoholMarket\obj\Debug\AlcoholMarket.pdb

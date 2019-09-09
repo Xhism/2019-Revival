@@ -1,0 +1,7 @@
+D:\GitHub\2019-Revival\LabSimpleOperations\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+D:\GitHub\2019-Revival\LabSimpleOperations\USDtoBGN\bin\Debug\USDtoBGN.exe
+D:\GitHub\2019-Revival\LabSimpleOperations\USDtoBGN\bin\Debug\USDtoBGN.pdb
+D:\GitHub\2019-Revival\LabSimpleOperations\USDtoBGN\obj\Debug\USDtoBGN.csprojAssemblyReference.cache
+D:\GitHub\2019-Revival\LabSimpleOperations\USDtoBGN\obj\Debug\USDtoBGN.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\LabSimpleOperations\USDtoBGN\obj\Debug\USDtoBGN.exe
+D:\GitHub\2019-Revival\LabSimpleOperations\USDtoBGN\obj\Debug\USDtoBGN.pdb

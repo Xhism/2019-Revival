@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\LabSimpleOperations\TailoringWorkshop\bin\Debug\TailoringWorkshop.exe.config
+D:\GitHub\2019-Revival\LabSimpleOperations\TailoringWorkshop\bin\Debug\TailoringWorkshop.exe
+D:\GitHub\2019-Revival\LabSimpleOperations\TailoringWorkshop\bin\Debug\TailoringWorkshop.pdb
+D:\GitHub\2019-Revival\LabSimpleOperations\TailoringWorkshop\obj\Debug\TailoringWorkshop.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\LabSimpleOperations\TailoringWorkshop\obj\Debug\TailoringWorkshop.exe
+D:\GitHub\2019-Revival\LabSimpleOperations\TailoringWorkshop\obj\Debug\TailoringWorkshop.pdb

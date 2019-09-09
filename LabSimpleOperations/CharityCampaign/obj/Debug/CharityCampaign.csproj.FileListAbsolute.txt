@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\LabSimpleOperations\CharityCampaign\bin\Debug\CharityCampaign.exe.config
+D:\GitHub\2019-Revival\LabSimpleOperations\CharityCampaign\bin\Debug\CharityCampaign.exe
+D:\GitHub\2019-Revival\LabSimpleOperations\CharityCampaign\bin\Debug\CharityCampaign.pdb
+D:\GitHub\2019-Revival\LabSimpleOperations\CharityCampaign\obj\Debug\CharityCampaign.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\LabSimpleOperations\CharityCampaign\obj\Debug\CharityCampaign.exe
+D:\GitHub\2019-Revival\LabSimpleOperations\CharityCampaign\obj\Debug\CharityCampaign.pdb
