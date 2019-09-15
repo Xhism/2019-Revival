@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\GitHub\2019-Revival\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\GitHub\2019-Revival\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\GitHub\2019-Revival\ConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\ConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\GitHub\2019-Revival\ConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

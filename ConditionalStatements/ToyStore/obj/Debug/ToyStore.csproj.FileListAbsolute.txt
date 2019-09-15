@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\ConditionalStatements\ToyStore\bin\Debug\ToyStore.exe.config
+D:\GitHub\2019-Revival\ConditionalStatements\ToyStore\bin\Debug\ToyStore.exe
+D:\GitHub\2019-Revival\ConditionalStatements\ToyStore\bin\Debug\ToyStore.pdb
+D:\GitHub\2019-Revival\ConditionalStatements\ToyStore\obj\Debug\ToyStore.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\ConditionalStatements\ToyStore\obj\Debug\ToyStore.exe
+D:\GitHub\2019-Revival\ConditionalStatements\ToyStore\obj\Debug\ToyStore.pdb

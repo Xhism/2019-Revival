@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\ConditionalStatements\IdentifyAnimalType\bin\Debug\IdentifyAnimalType.exe.config
+D:\GitHub\2019-Revival\ConditionalStatements\IdentifyAnimalType\bin\Debug\IdentifyAnimalType.exe
+D:\GitHub\2019-Revival\ConditionalStatements\IdentifyAnimalType\bin\Debug\IdentifyAnimalType.pdb
+D:\GitHub\2019-Revival\ConditionalStatements\IdentifyAnimalType\obj\Debug\IdentifyAnimalType.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\ConditionalStatements\IdentifyAnimalType\obj\Debug\IdentifyAnimalType.exe
+D:\GitHub\2019-Revival\ConditionalStatements\IdentifyAnimalType\obj\Debug\IdentifyAnimalType.pdb

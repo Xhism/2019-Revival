@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\ConditionalStatements\Numbers1To9\bin\Debug\Numbers1To9.exe.config
+D:\GitHub\2019-Revival\ConditionalStatements\Numbers1To9\bin\Debug\Numbers1To9.exe
+D:\GitHub\2019-Revival\ConditionalStatements\Numbers1To9\bin\Debug\Numbers1To9.pdb
+D:\GitHub\2019-Revival\ConditionalStatements\Numbers1To9\obj\Debug\DigitsToText.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\ConditionalStatements\Numbers1To9\obj\Debug\Numbers1To9.exe
+D:\GitHub\2019-Revival\ConditionalStatements\Numbers1To9\obj\Debug\Numbers1To9.pdb

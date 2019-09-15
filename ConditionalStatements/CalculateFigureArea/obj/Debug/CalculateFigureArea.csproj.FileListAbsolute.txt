@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\ConditionalStatements\CalculateFigureArea\bin\Debug\CalculateFigureArea.exe.config
+D:\GitHub\2019-Revival\ConditionalStatements\CalculateFigureArea\bin\Debug\CalculateFigureArea.exe
+D:\GitHub\2019-Revival\ConditionalStatements\CalculateFigureArea\bin\Debug\CalculateFigureArea.pdb
+D:\GitHub\2019-Revival\ConditionalStatements\CalculateFigureArea\obj\Debug\CalculateFigureArea.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\ConditionalStatements\CalculateFigureArea\obj\Debug\CalculateFigureArea.exe
+D:\GitHub\2019-Revival\ConditionalStatements\CalculateFigureArea\obj\Debug\CalculateFigureArea.pdb

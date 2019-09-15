@@ -1,0 +1,7 @@
+D:\GitHub\2019-Revival\ConditionalStatements\ResultsCheck\bin\Debug\ResultsCheck.exe.config
+D:\GitHub\2019-Revival\ConditionalStatements\ResultsCheck\bin\Debug\ResultsCheck.exe
+D:\GitHub\2019-Revival\ConditionalStatements\ResultsCheck\bin\Debug\ResultsCheck.pdb
+D:\GitHub\2019-Revival\ConditionalStatements\ResultsCheck\obj\Debug\ResultsCheck.csprojAssemblyReference.cache
+D:\GitHub\2019-Revival\ConditionalStatements\ResultsCheck\obj\Debug\ResultsCheck.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\ConditionalStatements\ResultsCheck\obj\Debug\ResultsCheck.exe
+D:\GitHub\2019-Revival\ConditionalStatements\ResultsCheck\obj\Debug\ResultsCheck.pdb
