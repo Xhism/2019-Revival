@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\LabConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
+D:\GitHub\2019-Revival\LabConditionalStatements\BonusScore\bin\Debug\BonusScore.exe
+D:\GitHub\2019-Revival\LabConditionalStatements\BonusScore\bin\Debug\BonusScore.pdb
+D:\GitHub\2019-Revival\LabConditionalStatements\BonusScore\obj\Debug\BonusScore.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\LabConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
+D:\GitHub\2019-Revival\LabConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb

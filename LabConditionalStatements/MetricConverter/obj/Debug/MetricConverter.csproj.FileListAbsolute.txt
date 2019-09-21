@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\LabConditionalStatements\MetricConverter\bin\Debug\MetricConverter.exe.config
+D:\GitHub\2019-Revival\LabConditionalStatements\MetricConverter\bin\Debug\MetricConverter.exe
+D:\GitHub\2019-Revival\LabConditionalStatements\MetricConverter\bin\Debug\MetricConverter.pdb
+D:\GitHub\2019-Revival\LabConditionalStatements\MetricConverter\obj\Debug\MetricConverter.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\LabConditionalStatements\MetricConverter\obj\Debug\MetricConverter.exe
+D:\GitHub\2019-Revival\LabConditionalStatements\MetricConverter\obj\Debug\MetricConverter.pdb

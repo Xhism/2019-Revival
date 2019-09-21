@@ -1,0 +1,7 @@
+D:\GitHub\2019-Revival\LabConditionalStatements\SumOfSeconds\bin\Debug\SumOfSeconds.exe.config
+D:\GitHub\2019-Revival\LabConditionalStatements\SumOfSeconds\bin\Debug\SumOfSeconds.exe
+D:\GitHub\2019-Revival\LabConditionalStatements\SumOfSeconds\bin\Debug\SumOfSeconds.pdb
+D:\GitHub\2019-Revival\LabConditionalStatements\SumOfSeconds\obj\Debug\SumOfSeconds.csprojAssemblyReference.cache
+D:\GitHub\2019-Revival\LabConditionalStatements\SumOfSeconds\obj\Debug\SumOfSeconds.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\LabConditionalStatements\SumOfSeconds\obj\Debug\SumOfSeconds.exe
+D:\GitHub\2019-Revival\LabConditionalStatements\SumOfSeconds\obj\Debug\SumOfSeconds.pdb

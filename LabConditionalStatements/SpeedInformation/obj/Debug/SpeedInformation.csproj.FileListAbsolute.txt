@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\LabConditionalStatements\SpeedInformation\bin\Debug\SpeedInformation.exe.config
+D:\GitHub\2019-Revival\LabConditionalStatements\SpeedInformation\bin\Debug\SpeedInformation.exe
+D:\GitHub\2019-Revival\LabConditionalStatements\SpeedInformation\bin\Debug\SpeedInformation.pdb
+D:\GitHub\2019-Revival\LabConditionalStatements\SpeedInformation\obj\Debug\SpeedInformation.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\LabConditionalStatements\SpeedInformation\obj\Debug\SpeedInformation.exe
+D:\GitHub\2019-Revival\LabConditionalStatements\SpeedInformation\obj\Debug\SpeedInformation.pdb

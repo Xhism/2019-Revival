@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\LabConditionalStatements\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\LabConditionalStatements\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.exe.config
+D:\GitHub\2019-Revival\LabConditionalStatements\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.exe
+D:\GitHub\2019-Revival\LabConditionalStatements\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.pdb
+D:\GitHub\2019-Revival\LabConditionalStatements\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.exe
+D:\GitHub\2019-Revival\LabConditionalStatements\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.pdb
