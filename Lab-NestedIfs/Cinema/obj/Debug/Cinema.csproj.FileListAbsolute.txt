@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\Lab-NestedIfs\Cinema\bin\Debug\Cinema.exe.config
+D:\GitHub\2019-Revival\Lab-NestedIfs\Cinema\bin\Debug\Cinema.exe
+D:\GitHub\2019-Revival\Lab-NestedIfs\Cinema\bin\Debug\Cinema.pdb
+D:\GitHub\2019-Revival\Lab-NestedIfs\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Lab-NestedIfs\Cinema\obj\Debug\Cinema.exe
+D:\GitHub\2019-Revival\Lab-NestedIfs\Cinema\obj\Debug\Cinema.pdb

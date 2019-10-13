@@ -1,0 +1,7 @@
+D:\GitHub\2019-Revival\Lab-WhileLoops\ExamPreparation\bin\Debug\ExamPreparation.exe.config
+D:\GitHub\2019-Revival\Lab-WhileLoops\ExamPreparation\bin\Debug\ExamPreparation.exe
+D:\GitHub\2019-Revival\Lab-WhileLoops\ExamPreparation\bin\Debug\ExamPreparation.pdb
+D:\GitHub\2019-Revival\Lab-WhileLoops\ExamPreparation\obj\Debug\ExamPreparation.csprojAssemblyReference.cache
+D:\GitHub\2019-Revival\Lab-WhileLoops\ExamPreparation\obj\Debug\ExamPreparation.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Lab-WhileLoops\ExamPreparation\obj\Debug\ExamPreparation.exe
+D:\GitHub\2019-Revival\Lab-WhileLoops\ExamPreparation\obj\Debug\ExamPreparation.pdb

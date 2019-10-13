@@ -1,0 +1,7 @@
+D:\GitHub\2019-Revival\Lab-WhileLoops\Walking\bin\Debug\Walking.exe.config
+D:\GitHub\2019-Revival\Lab-WhileLoops\Walking\bin\Debug\Walking.exe
+D:\GitHub\2019-Revival\Lab-WhileLoops\Walking\bin\Debug\Walking.pdb
+D:\GitHub\2019-Revival\Lab-WhileLoops\Walking\obj\Debug\Walking.csprojAssemblyReference.cache
+D:\GitHub\2019-Revival\Lab-WhileLoops\Walking\obj\Debug\Walking.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Lab-WhileLoops\Walking\obj\Debug\Walking.exe
+D:\GitHub\2019-Revival\Lab-WhileLoops\Walking\obj\Debug\Walking.pdb

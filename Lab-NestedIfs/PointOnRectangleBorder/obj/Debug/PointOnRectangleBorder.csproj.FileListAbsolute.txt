@@ -1,0 +1,7 @@
+D:\GitHub\2019-Revival\Lab-NestedIfs\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+D:\GitHub\2019-Revival\Lab-NestedIfs\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+D:\GitHub\2019-Revival\Lab-NestedIfs\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+D:\GitHub\2019-Revival\Lab-NestedIfs\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojAssemblyReference.cache
+D:\GitHub\2019-Revival\Lab-NestedIfs\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Lab-NestedIfs\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+D:\GitHub\2019-Revival\Lab-NestedIfs\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

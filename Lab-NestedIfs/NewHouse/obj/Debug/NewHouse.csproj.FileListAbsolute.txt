@@ -1,0 +1,7 @@
+D:\GitHub\2019-Revival\Lab-NestedIfs\NewHouse\bin\Debug\NewHouse.exe.config
+D:\GitHub\2019-Revival\Lab-NestedIfs\NewHouse\bin\Debug\NewHouse.exe
+D:\GitHub\2019-Revival\Lab-NestedIfs\NewHouse\bin\Debug\NewHouse.pdb
+D:\GitHub\2019-Revival\Lab-NestedIfs\NewHouse\obj\Debug\NewHouse.csprojAssemblyReference.cache
+D:\GitHub\2019-Revival\Lab-NestedIfs\NewHouse\obj\Debug\NewHouse.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Lab-NestedIfs\NewHouse\obj\Debug\NewHouse.exe
+D:\GitHub\2019-Revival\Lab-NestedIfs\NewHouse\obj\Debug\NewHouse.pdb

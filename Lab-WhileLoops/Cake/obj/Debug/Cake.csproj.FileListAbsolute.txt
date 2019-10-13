@@ -1,0 +1,6 @@
+D:\GitHub\2019-Revival\Lab-WhileLoops\Cake\bin\Debug\Cake.exe.config
+D:\GitHub\2019-Revival\Lab-WhileLoops\Cake\bin\Debug\Cake.exe
+D:\GitHub\2019-Revival\Lab-WhileLoops\Cake\bin\Debug\Cake.pdb
+D:\GitHub\2019-Revival\Lab-WhileLoops\Cake\obj\Debug\Cake.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Lab-WhileLoops\Cake\obj\Debug\Cake.exe
+D:\GitHub\2019-Revival\Lab-WhileLoops\Cake\obj\Debug\Cake.pdb

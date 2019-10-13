@@ -1,0 +1,7 @@
+D:\GitHub\2019-Revival\Lab-WhileLoops\OldBooks\bin\Debug\OldBooks.exe.config
+D:\GitHub\2019-Revival\Lab-WhileLoops\OldBooks\bin\Debug\OldBooks.exe
+D:\GitHub\2019-Revival\Lab-WhileLoops\OldBooks\bin\Debug\OldBooks.pdb
+D:\GitHub\2019-Revival\Lab-WhileLoops\OldBooks\obj\Debug\OldBooks.csprojAssemblyReference.cache
+D:\GitHub\2019-Revival\Lab-WhileLoops\OldBooks\obj\Debug\OldBooks.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Lab-WhileLoops\OldBooks\obj\Debug\OldBooks.exe
+D:\GitHub\2019-Revival\Lab-WhileLoops\OldBooks\obj\Debug\OldBooks.pdb

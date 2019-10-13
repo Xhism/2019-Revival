@@ -1,0 +1,7 @@
+D:\GitHub\2019-Revival\Lab-WhileLoops\Coins\bin\Debug\Coins.exe.config
+D:\GitHub\2019-Revival\Lab-WhileLoops\Coins\bin\Debug\Coins.exe
+D:\GitHub\2019-Revival\Lab-WhileLoops\Coins\bin\Debug\Coins.pdb
+D:\GitHub\2019-Revival\Lab-WhileLoops\Coins\obj\Debug\Coins.csprojAssemblyReference.cache
+D:\GitHub\2019-Revival\Lab-WhileLoops\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+D:\GitHub\2019-Revival\Lab-WhileLoops\Coins\obj\Debug\Coins.exe
+D:\GitHub\2019-Revival\Lab-WhileLoops\Coins\obj\Debug\Coins.pdb
